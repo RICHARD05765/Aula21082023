@@ -1,0 +1,1 @@
+Estou usando o core module para ler este arquivo
